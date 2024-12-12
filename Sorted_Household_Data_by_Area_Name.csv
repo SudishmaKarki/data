@@ -1,0 +1,81 @@
+code,areaName,houseType,households
+E12000004,East Midlands,commercial,13204
+E12000004,East Midlands,terraced,392641
+E12000004,East Midlands,flats,180578
+E12000004,East Midlands,detached,676024
+E12000004,East Midlands,semiDetached,727740
+E12000004,East Midlands,conversion,12543
+E12000004,East Midlands,caravan,9618
+E12000004,East Midlands,sharedHouse,24983
+E12000006,East of England,commercial,18298
+E12000006,East of England,flats,381093
+E12000006,East of England,semiDetached,816068
+E12000006,East of England,terraced,557954
+E12000006,East of England,detached,776812
+E12000006,East of England,caravan,16141
+E12000006,East of England,sharedHouse,45269
+E12000006,East of England,conversion,17147
+E12000007,London,terraced,727673
+E12000007,London,detached,208078
+E12000007,London,flats,1380137
+E12000007,London,semiDetached,636084
+E12000007,London,caravan,4406
+E12000007,London,commercial,47836
+E12000007,London,sharedHouse,378564
+E12000007,London,conversion,41112
+E12000001,North East,sharedHouse,24511
+E12000001,North East,flats,133229
+E12000001,North East,commercial,6299
+E12000001,North East,conversion,4982
+E12000001,North East,terraced,326453
+E12000001,North East,detached,207943
+E12000001,North East,semiDetached,470849
+E12000001,North East,caravan,1414
+E12000002,North West,commercial,22714
+E12000002,North West,terraced,886330
+E12000002,North West,flats,394015
+E12000002,North West,detached,599838
+E12000002,North West,caravan,8937
+E12000002,North West,conversion,22246
+E12000002,North West,semiDetached,1160271
+E12000002,North West,sharedHouse,59053
+E12000008,South East,terraced,812592
+E12000008,South East,sharedHouse,118927
+E12000008,South East,detached,1065035
+E12000008,South East,caravan,25243
+E12000008,South East,semiDetached,1082651
+E12000008,South East,conversion,30739
+E12000008,South East,commercial,32687
+E12000008,South East,flats,640091
+E12000009,South West,commercial,21495
+E12000009,South West,conversion,25536
+E12000009,South West,flats,314386
+E12000009,South West,caravan,18628
+E12000009,South West,sharedHouse,93304
+E12000009,South West,detached,734775
+E12000009,South West,semiDetached,694153
+E12000009,South West,terraced,546603
+W92000004,Wales,semiDetached,431871
+W92000004,Wales,caravan,4368
+W92000004,Wales,terraced,358035
+W92000004,Wales,conversion,6842
+W92000004,Wales,flats,126662
+W92000004,Wales,detached,384395
+W92000004,Wales,commercial,10489
+W92000004,Wales,sharedHouse,24451
+E12000005,West Midlands,conversion,13671
+E12000005,West Midlands,detached,595850
+E12000005,West Midlands,caravan,9723
+E12000005,West Midlands,sharedHouse,36940
+E12000005,West Midlands,semiDetached,913115
+E12000005,West Midlands,commercial,18368
+E12000005,West Midlands,flats,318415
+E12000005,West Midlands,terraced,523411
+E12000003,Yorkshire and The Humber,terraced,607775
+E12000003,Yorkshire and The Humber,semiDetached,877373
+E12000003,Yorkshire and The Humber,caravan,5785
+E12000003,Yorkshire and The Humber,conversion,20729
+E12000003,Yorkshire and The Humber,commercial,17066
+E12000003,Yorkshire and The Humber,detached,504504
+E12000003,Yorkshire and The Humber,sharedHouse,39602
+E12000003,Yorkshire and The Humber,flats,257824

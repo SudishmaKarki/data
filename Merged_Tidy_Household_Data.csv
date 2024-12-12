@@ -1,0 +1,721 @@
+,code,areaName,houseType,households,HouseholdSize,Households
+0,E12000004,East Midlands,commercial,13204,h0,0
+1,E12000004,East Midlands,commercial,13204,h1,597177
+2,E12000004,East Midlands,commercial,13204,h2,597177
+3,E12000004,East Midlands,commercial,13204,h3,730945
+4,E12000004,East Midlands,commercial,13204,h4,322451
+5,E12000004,East Midlands,commercial,13204,h5,256146
+6,E12000004,East Midlands,commercial,13204,h6,86624
+7,E12000004,East Midlands,commercial,13204,h7,27834
+8,E12000004,East Midlands,commercial,13204,h8plus,6773
+9,E12000004,East Midlands,terraced,392641,h0,0
+10,E12000004,East Midlands,terraced,392641,h1,597177
+11,E12000004,East Midlands,terraced,392641,h2,597177
+12,E12000004,East Midlands,terraced,392641,h3,730945
+13,E12000004,East Midlands,terraced,392641,h4,322451
+14,E12000004,East Midlands,terraced,392641,h5,256146
+15,E12000004,East Midlands,terraced,392641,h6,86624
+16,E12000004,East Midlands,terraced,392641,h7,27834
+17,E12000004,East Midlands,terraced,392641,h8plus,6773
+18,E12000004,East Midlands,flats,180578,h0,0
+19,E12000004,East Midlands,flats,180578,h1,597177
+20,E12000004,East Midlands,flats,180578,h2,597177
+21,E12000004,East Midlands,flats,180578,h3,730945
+22,E12000004,East Midlands,flats,180578,h4,322451
+23,E12000004,East Midlands,flats,180578,h5,256146
+24,E12000004,East Midlands,flats,180578,h6,86624
+25,E12000004,East Midlands,flats,180578,h7,27834
+26,E12000004,East Midlands,flats,180578,h8plus,6773
+27,E12000004,East Midlands,detached,676024,h0,0
+28,E12000004,East Midlands,detached,676024,h1,597177
+29,E12000004,East Midlands,detached,676024,h2,597177
+30,E12000004,East Midlands,detached,676024,h3,730945
+31,E12000004,East Midlands,detached,676024,h4,322451
+32,E12000004,East Midlands,detached,676024,h5,256146
+33,E12000004,East Midlands,detached,676024,h6,86624
+34,E12000004,East Midlands,detached,676024,h7,27834
+35,E12000004,East Midlands,detached,676024,h8plus,6773
+36,E12000004,East Midlands,semiDetached,727740,h0,0
+37,E12000004,East Midlands,semiDetached,727740,h1,597177
+38,E12000004,East Midlands,semiDetached,727740,h2,597177
+39,E12000004,East Midlands,semiDetached,727740,h3,730945
+40,E12000004,East Midlands,semiDetached,727740,h4,322451
+41,E12000004,East Midlands,semiDetached,727740,h5,256146
+42,E12000004,East Midlands,semiDetached,727740,h6,86624
+43,E12000004,East Midlands,semiDetached,727740,h7,27834
+44,E12000004,East Midlands,semiDetached,727740,h8plus,6773
+45,E12000004,East Midlands,conversion,12543,h0,0
+46,E12000004,East Midlands,conversion,12543,h1,597177
+47,E12000004,East Midlands,conversion,12543,h2,597177
+48,E12000004,East Midlands,conversion,12543,h3,730945
+49,E12000004,East Midlands,conversion,12543,h4,322451
+50,E12000004,East Midlands,conversion,12543,h5,256146
+51,E12000004,East Midlands,conversion,12543,h6,86624
+52,E12000004,East Midlands,conversion,12543,h7,27834
+53,E12000004,East Midlands,conversion,12543,h8plus,6773
+54,E12000004,East Midlands,caravan,9618,h0,0
+55,E12000004,East Midlands,caravan,9618,h1,597177
+56,E12000004,East Midlands,caravan,9618,h2,597177
+57,E12000004,East Midlands,caravan,9618,h3,730945
+58,E12000004,East Midlands,caravan,9618,h4,322451
+59,E12000004,East Midlands,caravan,9618,h5,256146
+60,E12000004,East Midlands,caravan,9618,h6,86624
+61,E12000004,East Midlands,caravan,9618,h7,27834
+62,E12000004,East Midlands,caravan,9618,h8plus,6773
+63,E12000004,East Midlands,sharedHouse,24983,h0,0
+64,E12000004,East Midlands,sharedHouse,24983,h1,597177
+65,E12000004,East Midlands,sharedHouse,24983,h2,597177
+66,E12000004,East Midlands,sharedHouse,24983,h3,730945
+67,E12000004,East Midlands,sharedHouse,24983,h4,322451
+68,E12000004,East Midlands,sharedHouse,24983,h5,256146
+69,E12000004,East Midlands,sharedHouse,24983,h6,86624
+70,E12000004,East Midlands,sharedHouse,24983,h7,27834
+71,E12000004,East Midlands,sharedHouse,24983,h8plus,6773
+72,E12000006,East of England,commercial,18298,h0,0
+73,E12000006,East of England,commercial,18298,h1,759808
+74,E12000006,East of England,commercial,18298,h2,759808
+75,E12000006,East of England,commercial,18298,h3,915234
+76,E12000006,East of England,commercial,18298,h4,422590
+77,E12000006,East of England,commercial,18298,h5,359854
+78,E12000006,East of England,commercial,18298,h6,117695
+79,E12000006,East of England,commercial,18298,h7,35780
+80,E12000006,East of England,commercial,18298,h8plus,6794
+81,E12000006,East of England,flats,381093,h0,0
+82,E12000006,East of England,flats,381093,h1,759808
+83,E12000006,East of England,flats,381093,h2,759808
+84,E12000006,East of England,flats,381093,h3,915234
+85,E12000006,East of England,flats,381093,h4,422590
+86,E12000006,East of England,flats,381093,h5,359854
+87,E12000006,East of England,flats,381093,h6,117695
+88,E12000006,East of England,flats,381093,h7,35780
+89,E12000006,East of England,flats,381093,h8plus,6794
+90,E12000006,East of England,semiDetached,816068,h0,0
+91,E12000006,East of England,semiDetached,816068,h1,759808
+92,E12000006,East of England,semiDetached,816068,h2,759808
+93,E12000006,East of England,semiDetached,816068,h3,915234
+94,E12000006,East of England,semiDetached,816068,h4,422590
+95,E12000006,East of England,semiDetached,816068,h5,359854
+96,E12000006,East of England,semiDetached,816068,h6,117695
+97,E12000006,East of England,semiDetached,816068,h7,35780
+98,E12000006,East of England,semiDetached,816068,h8plus,6794
+99,E12000006,East of England,terraced,557954,h0,0
+100,E12000006,East of England,terraced,557954,h1,759808
+101,E12000006,East of England,terraced,557954,h2,759808
+102,E12000006,East of England,terraced,557954,h3,915234
+103,E12000006,East of England,terraced,557954,h4,422590
+104,E12000006,East of England,terraced,557954,h5,359854
+105,E12000006,East of England,terraced,557954,h6,117695
+106,E12000006,East of England,terraced,557954,h7,35780
+107,E12000006,East of England,terraced,557954,h8plus,6794
+108,E12000006,East of England,detached,776812,h0,0
+109,E12000006,East of England,detached,776812,h1,759808
+110,E12000006,East of England,detached,776812,h2,759808
+111,E12000006,East of England,detached,776812,h3,915234
+112,E12000006,East of England,detached,776812,h4,422590
+113,E12000006,East of England,detached,776812,h5,359854
+114,E12000006,East of England,detached,776812,h6,117695
+115,E12000006,East of England,detached,776812,h7,35780
+116,E12000006,East of England,detached,776812,h8plus,6794
+117,E12000006,East of England,caravan,16141,h0,0
+118,E12000006,East of England,caravan,16141,h1,759808
+119,E12000006,East of England,caravan,16141,h2,759808
+120,E12000006,East of England,caravan,16141,h3,915234
+121,E12000006,East of England,caravan,16141,h4,422590
+122,E12000006,East of England,caravan,16141,h5,359854
+123,E12000006,East of England,caravan,16141,h6,117695
+124,E12000006,East of England,caravan,16141,h7,35780
+125,E12000006,East of England,caravan,16141,h8plus,6794
+126,E12000006,East of England,sharedHouse,45269,h0,0
+127,E12000006,East of England,sharedHouse,45269,h1,759808
+128,E12000006,East of England,sharedHouse,45269,h2,759808
+129,E12000006,East of England,sharedHouse,45269,h3,915234
+130,E12000006,East of England,sharedHouse,45269,h4,422590
+131,E12000006,East of England,sharedHouse,45269,h5,359854
+132,E12000006,East of England,sharedHouse,45269,h6,117695
+133,E12000006,East of England,sharedHouse,45269,h7,35780
+134,E12000006,East of England,sharedHouse,45269,h8plus,6794
+135,E12000006,East of England,conversion,17147,h0,0
+136,E12000006,East of England,conversion,17147,h1,759808
+137,E12000006,East of England,conversion,17147,h2,759808
+138,E12000006,East of England,conversion,17147,h3,915234
+139,E12000006,East of England,conversion,17147,h4,422590
+140,E12000006,East of England,conversion,17147,h5,359854
+141,E12000006,East of England,conversion,17147,h6,117695
+142,E12000006,East of England,conversion,17147,h7,35780
+143,E12000006,East of England,conversion,17147,h8plus,6794
+144,E12000007,London,terraced,727673,h0,0
+145,E12000007,London,terraced,727673,h1,1001983
+146,E12000007,London,terraced,727673,h2,1001983
+147,E12000007,London,terraced,727673,h3,1007485
+148,E12000007,London,terraced,727673,h4,587620
+149,E12000007,London,terraced,727673,h5,483036
+150,E12000007,London,terraced,727673,h6,201049
+151,E12000007,London,terraced,727673,h7,80001
+152,E12000007,London,terraced,727673,h8plus,30145
+153,E12000007,London,detached,208078,h0,0
+154,E12000007,London,detached,208078,h1,1001983
+155,E12000007,London,detached,208078,h2,1001983
+156,E12000007,London,detached,208078,h3,1007485
+157,E12000007,London,detached,208078,h4,587620
+158,E12000007,London,detached,208078,h5,483036
+159,E12000007,London,detached,208078,h6,201049
+160,E12000007,London,detached,208078,h7,80001
+161,E12000007,London,detached,208078,h8plus,30145
+162,E12000007,London,flats,1380137,h0,0
+163,E12000007,London,flats,1380137,h1,1001983
+164,E12000007,London,flats,1380137,h2,1001983
+165,E12000007,London,flats,1380137,h3,1007485
+166,E12000007,London,flats,1380137,h4,587620
+167,E12000007,London,flats,1380137,h5,483036
+168,E12000007,London,flats,1380137,h6,201049
+169,E12000007,London,flats,1380137,h7,80001
+170,E12000007,London,flats,1380137,h8plus,30145
+171,E12000007,London,semiDetached,636084,h0,0
+172,E12000007,London,semiDetached,636084,h1,1001983
+173,E12000007,London,semiDetached,636084,h2,1001983
+174,E12000007,London,semiDetached,636084,h3,1007485
+175,E12000007,London,semiDetached,636084,h4,587620
+176,E12000007,London,semiDetached,636084,h5,483036
+177,E12000007,London,semiDetached,636084,h6,201049
+178,E12000007,London,semiDetached,636084,h7,80001
+179,E12000007,London,semiDetached,636084,h8plus,30145
+180,E12000007,London,caravan,4406,h0,0
+181,E12000007,London,caravan,4406,h1,1001983
+182,E12000007,London,caravan,4406,h2,1001983
+183,E12000007,London,caravan,4406,h3,1007485
+184,E12000007,London,caravan,4406,h4,587620
+185,E12000007,London,caravan,4406,h5,483036
+186,E12000007,London,caravan,4406,h6,201049
+187,E12000007,London,caravan,4406,h7,80001
+188,E12000007,London,caravan,4406,h8plus,30145
+189,E12000007,London,commercial,47836,h0,0
+190,E12000007,London,commercial,47836,h1,1001983
+191,E12000007,London,commercial,47836,h2,1001983
+192,E12000007,London,commercial,47836,h3,1007485
+193,E12000007,London,commercial,47836,h4,587620
+194,E12000007,London,commercial,47836,h5,483036
+195,E12000007,London,commercial,47836,h6,201049
+196,E12000007,London,commercial,47836,h7,80001
+197,E12000007,London,commercial,47836,h8plus,30145
+198,E12000007,London,sharedHouse,378564,h0,0
+199,E12000007,London,sharedHouse,378564,h1,1001983
+200,E12000007,London,sharedHouse,378564,h2,1001983
+201,E12000007,London,sharedHouse,378564,h3,1007485
+202,E12000007,London,sharedHouse,378564,h4,587620
+203,E12000007,London,sharedHouse,378564,h5,483036
+204,E12000007,London,sharedHouse,378564,h6,201049
+205,E12000007,London,sharedHouse,378564,h7,80001
+206,E12000007,London,sharedHouse,378564,h8plus,30145
+207,E12000007,London,conversion,41112,h0,0
+208,E12000007,London,conversion,41112,h1,1001983
+209,E12000007,London,conversion,41112,h2,1001983
+210,E12000007,London,conversion,41112,h3,1007485
+211,E12000007,London,conversion,41112,h4,587620
+212,E12000007,London,conversion,41112,h5,483036
+213,E12000007,London,conversion,41112,h6,201049
+214,E12000007,London,conversion,41112,h7,80001
+215,E12000007,London,conversion,41112,h8plus,30145
+216,E12000001,North East,sharedHouse,24511,h0,0
+217,E12000001,North East,sharedHouse,24511,h1,395924
+218,E12000001,North East,sharedHouse,24511,h2,395924
+219,E12000001,North East,sharedHouse,24511,h3,410822
+220,E12000001,North East,sharedHouse,24511,h4,183528
+221,E12000001,North East,sharedHouse,24511,h5,128338
+222,E12000001,North East,sharedHouse,24511,h6,39167
+223,E12000001,North East,sharedHouse,24511,h7,12028
+224,E12000001,North East,sharedHouse,24511,h8plus,2186
+225,E12000001,North East,flats,133229,h0,0
+226,E12000001,North East,flats,133229,h1,395924
+227,E12000001,North East,flats,133229,h2,395924
+228,E12000001,North East,flats,133229,h3,410822
+229,E12000001,North East,flats,133229,h4,183528
+230,E12000001,North East,flats,133229,h5,128338
+231,E12000001,North East,flats,133229,h6,39167
+232,E12000001,North East,flats,133229,h7,12028
+233,E12000001,North East,flats,133229,h8plus,2186
+234,E12000001,North East,commercial,6299,h0,0
+235,E12000001,North East,commercial,6299,h1,395924
+236,E12000001,North East,commercial,6299,h2,395924
+237,E12000001,North East,commercial,6299,h3,410822
+238,E12000001,North East,commercial,6299,h4,183528
+239,E12000001,North East,commercial,6299,h5,128338
+240,E12000001,North East,commercial,6299,h6,39167
+241,E12000001,North East,commercial,6299,h7,12028
+242,E12000001,North East,commercial,6299,h8plus,2186
+243,E12000001,North East,conversion,4982,h0,0
+244,E12000001,North East,conversion,4982,h1,395924
+245,E12000001,North East,conversion,4982,h2,395924
+246,E12000001,North East,conversion,4982,h3,410822
+247,E12000001,North East,conversion,4982,h4,183528
+248,E12000001,North East,conversion,4982,h5,128338
+249,E12000001,North East,conversion,4982,h6,39167
+250,E12000001,North East,conversion,4982,h7,12028
+251,E12000001,North East,conversion,4982,h8plus,2186
+252,E12000001,North East,terraced,326453,h0,0
+253,E12000001,North East,terraced,326453,h1,395924
+254,E12000001,North East,terraced,326453,h2,395924
+255,E12000001,North East,terraced,326453,h3,410822
+256,E12000001,North East,terraced,326453,h4,183528
+257,E12000001,North East,terraced,326453,h5,128338
+258,E12000001,North East,terraced,326453,h6,39167
+259,E12000001,North East,terraced,326453,h7,12028
+260,E12000001,North East,terraced,326453,h8plus,2186
+261,E12000001,North East,detached,207943,h0,0
+262,E12000001,North East,detached,207943,h1,395924
+263,E12000001,North East,detached,207943,h2,395924
+264,E12000001,North East,detached,207943,h3,410822
+265,E12000001,North East,detached,207943,h4,183528
+266,E12000001,North East,detached,207943,h5,128338
+267,E12000001,North East,detached,207943,h6,39167
+268,E12000001,North East,detached,207943,h7,12028
+269,E12000001,North East,detached,207943,h8plus,2186
+270,E12000001,North East,semiDetached,470849,h0,0
+271,E12000001,North East,semiDetached,470849,h1,395924
+272,E12000001,North East,semiDetached,470849,h2,395924
+273,E12000001,North East,semiDetached,470849,h3,410822
+274,E12000001,North East,semiDetached,470849,h4,183528
+275,E12000001,North East,semiDetached,470849,h5,128338
+276,E12000001,North East,semiDetached,470849,h6,39167
+277,E12000001,North East,semiDetached,470849,h7,12028
+278,E12000001,North East,semiDetached,470849,h8plus,2186
+279,E12000001,North East,caravan,1414,h0,0
+280,E12000001,North East,caravan,1414,h1,395924
+281,E12000001,North East,caravan,1414,h2,395924
+282,E12000001,North East,caravan,1414,h3,410822
+283,E12000001,North East,caravan,1414,h4,183528
+284,E12000001,North East,caravan,1414,h5,128338
+285,E12000001,North East,caravan,1414,h6,39167
+286,E12000001,North East,caravan,1414,h7,12028
+287,E12000001,North East,caravan,1414,h8plus,2186
+288,E12000002,North West,commercial,22714,h0,0
+289,E12000002,North West,commercial,22714,h1,1014910
+290,E12000002,North West,commercial,22714,h2,1014910
+291,E12000002,North West,commercial,22714,h3,1054079
+292,E12000002,North West,commercial,22714,h4,500601
+293,E12000002,North West,commercial,22714,h5,377427
+294,E12000002,North West,commercial,22714,h6,133010
+295,E12000002,North West,commercial,22714,h7,45673
+296,E12000002,North West,commercial,22714,h8plus,11611
+297,E12000002,North West,terraced,886330,h0,0
+298,E12000002,North West,terraced,886330,h1,1014910
+299,E12000002,North West,terraced,886330,h2,1014910
+300,E12000002,North West,terraced,886330,h3,1054079
+301,E12000002,North West,terraced,886330,h4,500601
+302,E12000002,North West,terraced,886330,h5,377427
+303,E12000002,North West,terraced,886330,h6,133010
+304,E12000002,North West,terraced,886330,h7,45673
+305,E12000002,North West,terraced,886330,h8plus,11611
+306,E12000002,North West,flats,394015,h0,0
+307,E12000002,North West,flats,394015,h1,1014910
+308,E12000002,North West,flats,394015,h2,1014910
+309,E12000002,North West,flats,394015,h3,1054079
+310,E12000002,North West,flats,394015,h4,500601
+311,E12000002,North West,flats,394015,h5,377427
+312,E12000002,North West,flats,394015,h6,133010
+313,E12000002,North West,flats,394015,h7,45673
+314,E12000002,North West,flats,394015,h8plus,11611
+315,E12000002,North West,detached,599838,h0,0
+316,E12000002,North West,detached,599838,h1,1014910
+317,E12000002,North West,detached,599838,h2,1014910
+318,E12000002,North West,detached,599838,h3,1054079
+319,E12000002,North West,detached,599838,h4,500601
+320,E12000002,North West,detached,599838,h5,377427
+321,E12000002,North West,detached,599838,h6,133010
+322,E12000002,North West,detached,599838,h7,45673
+323,E12000002,North West,detached,599838,h8plus,11611
+324,E12000002,North West,caravan,8937,h0,0
+325,E12000002,North West,caravan,8937,h1,1014910
+326,E12000002,North West,caravan,8937,h2,1014910
+327,E12000002,North West,caravan,8937,h3,1054079
+328,E12000002,North West,caravan,8937,h4,500601
+329,E12000002,North West,caravan,8937,h5,377427
+330,E12000002,North West,caravan,8937,h6,133010
+331,E12000002,North West,caravan,8937,h7,45673
+332,E12000002,North West,caravan,8937,h8plus,11611
+333,E12000002,North West,conversion,22246,h0,0
+334,E12000002,North West,conversion,22246,h1,1014910
+335,E12000002,North West,conversion,22246,h2,1014910
+336,E12000002,North West,conversion,22246,h3,1054079
+337,E12000002,North West,conversion,22246,h4,500601
+338,E12000002,North West,conversion,22246,h5,377427
+339,E12000002,North West,conversion,22246,h6,133010
+340,E12000002,North West,conversion,22246,h7,45673
+341,E12000002,North West,conversion,22246,h8plus,11611
+342,E12000002,North West,semiDetached,1160271,h0,0
+343,E12000002,North West,semiDetached,1160271,h1,1014910
+344,E12000002,North West,semiDetached,1160271,h2,1014910
+345,E12000002,North West,semiDetached,1160271,h3,1054079
+346,E12000002,North West,semiDetached,1160271,h4,500601
+347,E12000002,North West,semiDetached,1160271,h5,377427
+348,E12000002,North West,semiDetached,1160271,h6,133010
+349,E12000002,North West,semiDetached,1160271,h7,45673
+350,E12000002,North West,semiDetached,1160271,h8plus,11611
+351,E12000002,North West,sharedHouse,59053,h0,0
+352,E12000002,North West,sharedHouse,59053,h1,1014910
+353,E12000002,North West,sharedHouse,59053,h2,1014910
+354,E12000002,North West,sharedHouse,59053,h3,1054079
+355,E12000002,North West,sharedHouse,59053,h4,500601
+356,E12000002,North West,sharedHouse,59053,h5,377427
+357,E12000002,North West,sharedHouse,59053,h6,133010
+358,E12000002,North West,sharedHouse,59053,h7,45673
+359,E12000002,North West,sharedHouse,59053,h8plus,11611
+360,E12000008,South East,terraced,812592,h0,0
+361,E12000008,South East,terraced,812592,h1,1081739
+362,E12000008,South East,terraced,812592,h2,1081739
+363,E12000008,South East,terraced,812592,h3,1324005
+364,E12000008,South East,terraced,812592,h4,617807
+365,E12000008,South East,terraced,812592,h5,535503
+366,E12000008,South East,terraced,812592,h6,172459
+367,E12000008,South East,terraced,812592,h7,51445
+368,E12000008,South East,terraced,812592,h8plus,9321
+369,E12000008,South East,sharedHouse,118927,h0,0
+370,E12000008,South East,sharedHouse,118927,h1,1081739
+371,E12000008,South East,sharedHouse,118927,h2,1081739
+372,E12000008,South East,sharedHouse,118927,h3,1324005
+373,E12000008,South East,sharedHouse,118927,h4,617807
+374,E12000008,South East,sharedHouse,118927,h5,535503
+375,E12000008,South East,sharedHouse,118927,h6,172459
+376,E12000008,South East,sharedHouse,118927,h7,51445
+377,E12000008,South East,sharedHouse,118927,h8plus,9321
+378,E12000008,South East,detached,1065035,h0,0
+379,E12000008,South East,detached,1065035,h1,1081739
+380,E12000008,South East,detached,1065035,h2,1081739
+381,E12000008,South East,detached,1065035,h3,1324005
+382,E12000008,South East,detached,1065035,h4,617807
+383,E12000008,South East,detached,1065035,h5,535503
+384,E12000008,South East,detached,1065035,h6,172459
+385,E12000008,South East,detached,1065035,h7,51445
+386,E12000008,South East,detached,1065035,h8plus,9321
+387,E12000008,South East,caravan,25243,h0,0
+388,E12000008,South East,caravan,25243,h1,1081739
+389,E12000008,South East,caravan,25243,h2,1081739
+390,E12000008,South East,caravan,25243,h3,1324005
+391,E12000008,South East,caravan,25243,h4,617807
+392,E12000008,South East,caravan,25243,h5,535503
+393,E12000008,South East,caravan,25243,h6,172459
+394,E12000008,South East,caravan,25243,h7,51445
+395,E12000008,South East,caravan,25243,h8plus,9321
+396,E12000008,South East,semiDetached,1082651,h0,0
+397,E12000008,South East,semiDetached,1082651,h1,1081739
+398,E12000008,South East,semiDetached,1082651,h2,1081739
+399,E12000008,South East,semiDetached,1082651,h3,1324005
+400,E12000008,South East,semiDetached,1082651,h4,617807
+401,E12000008,South East,semiDetached,1082651,h5,535503
+402,E12000008,South East,semiDetached,1082651,h6,172459
+403,E12000008,South East,semiDetached,1082651,h7,51445
+404,E12000008,South East,semiDetached,1082651,h8plus,9321
+405,E12000008,South East,conversion,30739,h0,0
+406,E12000008,South East,conversion,30739,h1,1081739
+407,E12000008,South East,conversion,30739,h2,1081739
+408,E12000008,South East,conversion,30739,h3,1324005
+409,E12000008,South East,conversion,30739,h4,617807
+410,E12000008,South East,conversion,30739,h5,535503
+411,E12000008,South East,conversion,30739,h6,172459
+412,E12000008,South East,conversion,30739,h7,51445
+413,E12000008,South East,conversion,30739,h8plus,9321
+414,E12000008,South East,commercial,32687,h0,0
+415,E12000008,South East,commercial,32687,h1,1081739
+416,E12000008,South East,commercial,32687,h2,1081739
+417,E12000008,South East,commercial,32687,h3,1324005
+418,E12000008,South East,commercial,32687,h4,617807
+419,E12000008,South East,commercial,32687,h5,535503
+420,E12000008,South East,commercial,32687,h6,172459
+421,E12000008,South East,commercial,32687,h7,51445
+422,E12000008,South East,commercial,32687,h8plus,9321
+423,E12000008,South East,flats,640091,h0,0
+424,E12000008,South East,flats,640091,h1,1081739
+425,E12000008,South East,flats,640091,h2,1081739
+426,E12000008,South East,flats,640091,h3,1324005
+427,E12000008,South East,flats,640091,h4,617807
+428,E12000008,South East,flats,640091,h5,535503
+429,E12000008,South East,flats,640091,h6,172459
+430,E12000008,South East,flats,640091,h7,51445
+431,E12000008,South East,flats,640091,h8plus,9321
+432,E12000009,South West,commercial,21495,h0,0
+433,E12000009,South West,commercial,21495,h1,741323
+434,E12000009,South West,commercial,21495,h2,741323
+435,E12000009,South West,commercial,21495,h3,910536
+436,E12000009,South West,commercial,21495,h4,364516
+437,E12000009,South West,commercial,21495,h5,298067
+438,E12000009,South West,commercial,21495,h6,93966
+439,E12000009,South West,commercial,21495,h7,27509
+440,E12000009,South West,commercial,21495,h8plus,4848
+441,E12000009,South West,conversion,25536,h0,0
+442,E12000009,South West,conversion,25536,h1,741323
+443,E12000009,South West,conversion,25536,h2,741323
+444,E12000009,South West,conversion,25536,h3,910536
+445,E12000009,South West,conversion,25536,h4,364516
+446,E12000009,South West,conversion,25536,h5,298067
+447,E12000009,South West,conversion,25536,h6,93966
+448,E12000009,South West,conversion,25536,h7,27509
+449,E12000009,South West,conversion,25536,h8plus,4848
+450,E12000009,South West,flats,314386,h0,0
+451,E12000009,South West,flats,314386,h1,741323
+452,E12000009,South West,flats,314386,h2,741323
+453,E12000009,South West,flats,314386,h3,910536
+454,E12000009,South West,flats,314386,h4,364516
+455,E12000009,South West,flats,314386,h5,298067
+456,E12000009,South West,flats,314386,h6,93966
+457,E12000009,South West,flats,314386,h7,27509
+458,E12000009,South West,flats,314386,h8plus,4848
+459,E12000009,South West,caravan,18628,h0,0
+460,E12000009,South West,caravan,18628,h1,741323
+461,E12000009,South West,caravan,18628,h2,741323
+462,E12000009,South West,caravan,18628,h3,910536
+463,E12000009,South West,caravan,18628,h4,364516
+464,E12000009,South West,caravan,18628,h5,298067
+465,E12000009,South West,caravan,18628,h6,93966
+466,E12000009,South West,caravan,18628,h7,27509
+467,E12000009,South West,caravan,18628,h8plus,4848
+468,E12000009,South West,sharedHouse,93304,h0,0
+469,E12000009,South West,sharedHouse,93304,h1,741323
+470,E12000009,South West,sharedHouse,93304,h2,741323
+471,E12000009,South West,sharedHouse,93304,h3,910536
+472,E12000009,South West,sharedHouse,93304,h4,364516
+473,E12000009,South West,sharedHouse,93304,h5,298067
+474,E12000009,South West,sharedHouse,93304,h6,93966
+475,E12000009,South West,sharedHouse,93304,h7,27509
+476,E12000009,South West,sharedHouse,93304,h8plus,4848
+477,E12000009,South West,detached,734775,h0,0
+478,E12000009,South West,detached,734775,h1,741323
+479,E12000009,South West,detached,734775,h2,741323
+480,E12000009,South West,detached,734775,h3,910536
+481,E12000009,South West,detached,734775,h4,364516
+482,E12000009,South West,detached,734775,h5,298067
+483,E12000009,South West,detached,734775,h6,93966
+484,E12000009,South West,detached,734775,h7,27509
+485,E12000009,South West,detached,734775,h8plus,4848
+486,E12000009,South West,semiDetached,694153,h0,0
+487,E12000009,South West,semiDetached,694153,h1,741323
+488,E12000009,South West,semiDetached,694153,h2,741323
+489,E12000009,South West,semiDetached,694153,h3,910536
+490,E12000009,South West,semiDetached,694153,h4,364516
+491,E12000009,South West,semiDetached,694153,h5,298067
+492,E12000009,South West,semiDetached,694153,h6,93966
+493,E12000009,South West,semiDetached,694153,h7,27509
+494,E12000009,South West,semiDetached,694153,h8plus,4848
+495,E12000009,South West,terraced,546603,h0,0
+496,E12000009,South West,terraced,546603,h1,741323
+497,E12000009,South West,terraced,546603,h2,741323
+498,E12000009,South West,terraced,546603,h3,910536
+499,E12000009,South West,terraced,546603,h4,364516
+500,E12000009,South West,terraced,546603,h5,298067
+501,E12000009,South West,terraced,546603,h6,93966
+502,E12000009,South West,terraced,546603,h7,27509
+503,E12000009,South West,terraced,546603,h8plus,4848
+504,W92000004,Wales,semiDetached,431871,h0,0
+505,W92000004,Wales,semiDetached,431871,h1,429559
+506,W92000004,Wales,semiDetached,431871,h2,429559
+507,W92000004,Wales,semiDetached,431871,h3,472906
+508,W92000004,Wales,semiDetached,431871,h4,212281
+509,W92000004,Wales,semiDetached,431871,h5,157455
+510,W92000004,Wales,semiDetached,431871,h6,52304
+511,W92000004,Wales,semiDetached,431871,h7,15162
+512,W92000004,Wales,semiDetached,431871,h8plus,2738
+513,W92000004,Wales,caravan,4368,h0,0
+514,W92000004,Wales,caravan,4368,h1,429559
+515,W92000004,Wales,caravan,4368,h2,429559
+516,W92000004,Wales,caravan,4368,h3,472906
+517,W92000004,Wales,caravan,4368,h4,212281
+518,W92000004,Wales,caravan,4368,h5,157455
+519,W92000004,Wales,caravan,4368,h6,52304
+520,W92000004,Wales,caravan,4368,h7,15162
+521,W92000004,Wales,caravan,4368,h8plus,2738
+522,W92000004,Wales,terraced,358035,h0,0
+523,W92000004,Wales,terraced,358035,h1,429559
+524,W92000004,Wales,terraced,358035,h2,429559
+525,W92000004,Wales,terraced,358035,h3,472906
+526,W92000004,Wales,terraced,358035,h4,212281
+527,W92000004,Wales,terraced,358035,h5,157455
+528,W92000004,Wales,terraced,358035,h6,52304
+529,W92000004,Wales,terraced,358035,h7,15162
+530,W92000004,Wales,terraced,358035,h8plus,2738
+531,W92000004,Wales,conversion,6842,h0,0
+532,W92000004,Wales,conversion,6842,h1,429559
+533,W92000004,Wales,conversion,6842,h2,429559
+534,W92000004,Wales,conversion,6842,h3,472906
+535,W92000004,Wales,conversion,6842,h4,212281
+536,W92000004,Wales,conversion,6842,h5,157455
+537,W92000004,Wales,conversion,6842,h6,52304
+538,W92000004,Wales,conversion,6842,h7,15162
+539,W92000004,Wales,conversion,6842,h8plus,2738
+540,W92000004,Wales,flats,126662,h0,0
+541,W92000004,Wales,flats,126662,h1,429559
+542,W92000004,Wales,flats,126662,h2,429559
+543,W92000004,Wales,flats,126662,h3,472906
+544,W92000004,Wales,flats,126662,h4,212281
+545,W92000004,Wales,flats,126662,h5,157455
+546,W92000004,Wales,flats,126662,h6,52304
+547,W92000004,Wales,flats,126662,h7,15162
+548,W92000004,Wales,flats,126662,h8plus,2738
+549,W92000004,Wales,detached,384395,h0,0
+550,W92000004,Wales,detached,384395,h1,429559
+551,W92000004,Wales,detached,384395,h2,429559
+552,W92000004,Wales,detached,384395,h3,472906
+553,W92000004,Wales,detached,384395,h4,212281
+554,W92000004,Wales,detached,384395,h5,157455
+555,W92000004,Wales,detached,384395,h6,52304
+556,W92000004,Wales,detached,384395,h7,15162
+557,W92000004,Wales,detached,384395,h8plus,2738
+558,W92000004,Wales,commercial,10489,h0,0
+559,W92000004,Wales,commercial,10489,h1,429559
+560,W92000004,Wales,commercial,10489,h2,429559
+561,W92000004,Wales,commercial,10489,h3,472906
+562,W92000004,Wales,commercial,10489,h4,212281
+563,W92000004,Wales,commercial,10489,h5,157455
+564,W92000004,Wales,commercial,10489,h6,52304
+565,W92000004,Wales,commercial,10489,h7,15162
+566,W92000004,Wales,commercial,10489,h8plus,2738
+567,W92000004,Wales,sharedHouse,24451,h0,0
+568,W92000004,Wales,sharedHouse,24451,h1,429559
+569,W92000004,Wales,sharedHouse,24451,h2,429559
+570,W92000004,Wales,sharedHouse,24451,h3,472906
+571,W92000004,Wales,sharedHouse,24451,h4,212281
+572,W92000004,Wales,sharedHouse,24451,h5,157455
+573,W92000004,Wales,sharedHouse,24451,h6,52304
+574,W92000004,Wales,sharedHouse,24451,h7,15162
+575,W92000004,Wales,sharedHouse,24451,h8plus,2738
+576,E12000005,West Midlands,conversion,13671,h0,0
+577,E12000005,West Midlands,conversion,13671,h1,725807
+578,E12000005,West Midlands,conversion,13671,h2,725807
+579,E12000005,West Midlands,conversion,13671,h3,811252
+580,E12000005,West Midlands,conversion,13671,h4,387589
+581,E12000005,West Midlands,conversion,13671,h5,310365
+582,E12000005,West Midlands,conversion,13671,h6,119362
+583,E12000005,West Midlands,conversion,13671,h7,45020
+584,E12000005,West Midlands,conversion,13671,h8plus,12661
+585,E12000005,West Midlands,detached,595850,h0,0
+586,E12000005,West Midlands,detached,595850,h1,725807
+587,E12000005,West Midlands,detached,595850,h2,725807
+588,E12000005,West Midlands,detached,595850,h3,811252
+589,E12000005,West Midlands,detached,595850,h4,387589
+590,E12000005,West Midlands,detached,595850,h5,310365
+591,E12000005,West Midlands,detached,595850,h6,119362
+592,E12000005,West Midlands,detached,595850,h7,45020
+593,E12000005,West Midlands,detached,595850,h8plus,12661
+594,E12000005,West Midlands,caravan,9723,h0,0
+595,E12000005,West Midlands,caravan,9723,h1,725807
+596,E12000005,West Midlands,caravan,9723,h2,725807
+597,E12000005,West Midlands,caravan,9723,h3,811252
+598,E12000005,West Midlands,caravan,9723,h4,387589
+599,E12000005,West Midlands,caravan,9723,h5,310365
+600,E12000005,West Midlands,caravan,9723,h6,119362
+601,E12000005,West Midlands,caravan,9723,h7,45020
+602,E12000005,West Midlands,caravan,9723,h8plus,12661
+603,E12000005,West Midlands,sharedHouse,36940,h0,0
+604,E12000005,West Midlands,sharedHouse,36940,h1,725807
+605,E12000005,West Midlands,sharedHouse,36940,h2,725807
+606,E12000005,West Midlands,sharedHouse,36940,h3,811252
+607,E12000005,West Midlands,sharedHouse,36940,h4,387589
+608,E12000005,West Midlands,sharedHouse,36940,h5,310365
+609,E12000005,West Midlands,sharedHouse,36940,h6,119362
+610,E12000005,West Midlands,sharedHouse,36940,h7,45020
+611,E12000005,West Midlands,sharedHouse,36940,h8plus,12661
+612,E12000005,West Midlands,semiDetached,913115,h0,0
+613,E12000005,West Midlands,semiDetached,913115,h1,725807
+614,E12000005,West Midlands,semiDetached,913115,h2,725807
+615,E12000005,West Midlands,semiDetached,913115,h3,811252
+616,E12000005,West Midlands,semiDetached,913115,h4,387589
+617,E12000005,West Midlands,semiDetached,913115,h5,310365
+618,E12000005,West Midlands,semiDetached,913115,h6,119362
+619,E12000005,West Midlands,semiDetached,913115,h7,45020
+620,E12000005,West Midlands,semiDetached,913115,h8plus,12661
+621,E12000005,West Midlands,commercial,18368,h0,0
+622,E12000005,West Midlands,commercial,18368,h1,725807
+623,E12000005,West Midlands,commercial,18368,h2,725807
+624,E12000005,West Midlands,commercial,18368,h3,811252
+625,E12000005,West Midlands,commercial,18368,h4,387589
+626,E12000005,West Midlands,commercial,18368,h5,310365
+627,E12000005,West Midlands,commercial,18368,h6,119362
+628,E12000005,West Midlands,commercial,18368,h7,45020
+629,E12000005,West Midlands,commercial,18368,h8plus,12661
+630,E12000005,West Midlands,flats,318415,h0,0
+631,E12000005,West Midlands,flats,318415,h1,725807
+632,E12000005,West Midlands,flats,318415,h2,725807
+633,E12000005,West Midlands,flats,318415,h3,811252
+634,E12000005,West Midlands,flats,318415,h4,387589
+635,E12000005,West Midlands,flats,318415,h5,310365
+636,E12000005,West Midlands,flats,318415,h6,119362
+637,E12000005,West Midlands,flats,318415,h7,45020
+638,E12000005,West Midlands,flats,318415,h8plus,12661
+639,E12000005,West Midlands,terraced,523411,h0,0
+640,E12000005,West Midlands,terraced,523411,h1,725807
+641,E12000005,West Midlands,terraced,523411,h2,725807
+642,E12000005,West Midlands,terraced,523411,h3,811252
+643,E12000005,West Midlands,terraced,523411,h4,387589
+644,E12000005,West Midlands,terraced,523411,h5,310365
+645,E12000005,West Midlands,terraced,523411,h6,119362
+646,E12000005,West Midlands,terraced,523411,h7,45020
+647,E12000005,West Midlands,terraced,523411,h8plus,12661
+648,E12000003,Yorkshire and The Humber,terraced,607775,h0,0
+649,E12000003,Yorkshire and The Humber,terraced,607775,h1,733558
+650,E12000003,Yorkshire and The Humber,terraced,607775,h2,733558
+651,E12000003,Yorkshire and The Humber,terraced,607775,h3,814139
+652,E12000003,Yorkshire and The Humber,terraced,607775,h4,356185
+653,E12000003,Yorkshire and The Humber,terraced,607775,h5,276060
+654,E12000003,Yorkshire and The Humber,terraced,607775,h6,97116
+655,E12000003,Yorkshire and The Humber,terraced,607775,h7,33505
+656,E12000003,Yorkshire and The Humber,terraced,607775,h8plus,8079
+657,E12000003,Yorkshire and The Humber,semiDetached,877373,h0,0
+658,E12000003,Yorkshire and The Humber,semiDetached,877373,h1,733558
+659,E12000003,Yorkshire and The Humber,semiDetached,877373,h2,733558
+660,E12000003,Yorkshire and The Humber,semiDetached,877373,h3,814139
+661,E12000003,Yorkshire and The Humber,semiDetached,877373,h4,356185
+662,E12000003,Yorkshire and The Humber,semiDetached,877373,h5,276060
+663,E12000003,Yorkshire and The Humber,semiDetached,877373,h6,97116
+664,E12000003,Yorkshire and The Humber,semiDetached,877373,h7,33505
+665,E12000003,Yorkshire and The Humber,semiDetached,877373,h8plus,8079
+666,E12000003,Yorkshire and The Humber,caravan,5785,h0,0
+667,E12000003,Yorkshire and The Humber,caravan,5785,h1,733558
+668,E12000003,Yorkshire and The Humber,caravan,5785,h2,733558
+669,E12000003,Yorkshire and The Humber,caravan,5785,h3,814139
+670,E12000003,Yorkshire and The Humber,caravan,5785,h4,356185
+671,E12000003,Yorkshire and The Humber,caravan,5785,h5,276060
+672,E12000003,Yorkshire and The Humber,caravan,5785,h6,97116
+673,E12000003,Yorkshire and The Humber,caravan,5785,h7,33505
+674,E12000003,Yorkshire and The Humber,caravan,5785,h8plus,8079
+675,E12000003,Yorkshire and The Humber,conversion,20729,h0,0
+676,E12000003,Yorkshire and The Humber,conversion,20729,h1,733558
+677,E12000003,Yorkshire and The Humber,conversion,20729,h2,733558
+678,E12000003,Yorkshire and The Humber,conversion,20729,h3,814139
+679,E12000003,Yorkshire and The Humber,conversion,20729,h4,356185
+680,E12000003,Yorkshire and The Humber,conversion,20729,h5,276060
+681,E12000003,Yorkshire and The Humber,conversion,20729,h6,97116
+682,E12000003,Yorkshire and The Humber,conversion,20729,h7,33505
+683,E12000003,Yorkshire and The Humber,conversion,20729,h8plus,8079
+684,E12000003,Yorkshire and The Humber,commercial,17066,h0,0
+685,E12000003,Yorkshire and The Humber,commercial,17066,h1,733558
+686,E12000003,Yorkshire and The Humber,commercial,17066,h2,733558
+687,E12000003,Yorkshire and The Humber,commercial,17066,h3,814139
+688,E12000003,Yorkshire and The Humber,commercial,17066,h4,356185
+689,E12000003,Yorkshire and The Humber,commercial,17066,h5,276060
+690,E12000003,Yorkshire and The Humber,commercial,17066,h6,97116
+691,E12000003,Yorkshire and The Humber,commercial,17066,h7,33505
+692,E12000003,Yorkshire and The Humber,commercial,17066,h8plus,8079
+693,E12000003,Yorkshire and The Humber,detached,504504,h0,0
+694,E12000003,Yorkshire and The Humber,detached,504504,h1,733558
+695,E12000003,Yorkshire and The Humber,detached,504504,h2,733558
+696,E12000003,Yorkshire and The Humber,detached,504504,h3,814139
+697,E12000003,Yorkshire and The Humber,detached,504504,h4,356185
+698,E12000003,Yorkshire and The Humber,detached,504504,h5,276060
+699,E12000003,Yorkshire and The Humber,detached,504504,h6,97116
+700,E12000003,Yorkshire and The Humber,detached,504504,h7,33505
+701,E12000003,Yorkshire and The Humber,detached,504504,h8plus,8079
+702,E12000003,Yorkshire and The Humber,sharedHouse,39602,h0,0
+703,E12000003,Yorkshire and The Humber,sharedHouse,39602,h1,733558
+704,E12000003,Yorkshire and The Humber,sharedHouse,39602,h2,733558
+705,E12000003,Yorkshire and The Humber,sharedHouse,39602,h3,814139
+706,E12000003,Yorkshire and The Humber,sharedHouse,39602,h4,356185
+707,E12000003,Yorkshire and The Humber,sharedHouse,39602,h5,276060
+708,E12000003,Yorkshire and The Humber,sharedHouse,39602,h6,97116
+709,E12000003,Yorkshire and The Humber,sharedHouse,39602,h7,33505
+710,E12000003,Yorkshire and The Humber,sharedHouse,39602,h8plus,8079
+711,E12000003,Yorkshire and The Humber,flats,257824,h0,0
+712,E12000003,Yorkshire and The Humber,flats,257824,h1,733558
+713,E12000003,Yorkshire and The Humber,flats,257824,h2,733558
+714,E12000003,Yorkshire and The Humber,flats,257824,h3,814139
+715,E12000003,Yorkshire and The Humber,flats,257824,h4,356185
+716,E12000003,Yorkshire and The Humber,flats,257824,h5,276060
+717,E12000003,Yorkshire and The Humber,flats,257824,h6,97116
+718,E12000003,Yorkshire and The Humber,flats,257824,h7,33505
+719,E12000003,Yorkshire and The Humber,flats,257824,h8plus,8079
